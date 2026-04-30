@@ -45,3 +45,44 @@ Improved release confidence and decision-making process.
 Reduced friction between QA, Development, and Product.
 
 Strengthened testing processes in a fast-paced gaming environment.
+
+
+
+
+
+### Melhorias de Processo de Qualidade
+Liderei a implementação e adoção do Tuskr como ferramenta principal de gestão de casos de teste, melhorando organização, rastreabilidade e visibilidade das atividades de QA.
+
+Estruturei e padronizei casos de teste, tornando ciclos de regressão mais rápidos, claros e confiáveis.
+
+Melhorei a qualidade da documentação de testes, facilitando a colaboração entre QA, Desenvolvimento e Produto.
+
+### Reestruturação do Jira & Visibilidade
+Reestruturei o processo de reporte de bugs no Jira, criando templates mais claros, melhor categorização e padrões mais eficientes de priorização.
+
+Melhorei a navegação do board e organização dos cards no Jira, aumentando visibilidade de tarefas, bloqueios, prioridades e progresso de QA.
+
+Ajudei a criar um fluxo mais transparente para acompanhamento da qualidade durante as sprints.
+
+### Responsável por Aprovação de Builds
+Atuei como responsável final pela decisão de aceitar ou reprovar builds antes das releases.
+
+Avaliei qualidade do produto, estabilidade, bugs críticos e prontidão para publicação.
+
+Ganhei confiança dos times ao garantir que apenas builds estáveis avançassem.
+
+### Referência Técnica no Time
+Tornei-me referência dentro da equipe, sendo frequentemente procurado por colegas para orientações sobre estratégia de testes, severidade de bugs, prioridades e próximos passos.
+
+Apoiei decisões relacionadas a bloqueios, requisitos pouco claros e riscos de qualidade.
+
+Contribuí para a evolução do time através de colaboração diária e compartilhamento de conhecimento.
+
+### Impacto no Negócio
+Aumento da visibilidade do trabalho de QA.
+
+Maior confiança nas releases.
+
+Redução de atritos entre QA, Dev e Produto.
+
+Fortalecimento dos processos de teste em ambiente ágil de games.
