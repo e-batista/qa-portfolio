@@ -3,30 +3,45 @@
 Collection of professional QA cases, quality improvements, testing strategies and real industry experience in gaming products. 
 
 
-## Achievements
+# Achievements
 
-###Quality Process Improvements
+### Quality Process Improvements
 Led the implementation and adoption of Tuskr as the primary test case management tool, improving organization, traceability, and execution visibility across QA activities.
+
 Structured and standardized test cases, making regression cycles faster, clearer, and more reliable.
+
 Improved overall testing documentation quality, enabling smoother collaboration between QA, Development, and Product teams.
 
-###Jira Workflow & Visibility Enhancement
+
+### Jira Workflow & Visibility Enhancement
 Redesigned the bug reporting process in Jira, creating clearer templates, better categorization, and stronger prioritization standards.
+
 Improved Jira board navigation and card organization, increasing visibility of tasks, blockers, priorities, and QA progress for all stakeholders.
+
 Helped create a more transparent workflow, allowing teams to track quality status more efficiently during sprints.
 
-###Build Approval Ownership
+
+## Build Approval Ownership
 Acted as the final QA decision-maker for build acceptance or rejection before releases.
+
 Evaluated product quality, stability, critical defects, and release readiness to support go/no-go decisions.
+
 Built trust with cross-functional teams by ensuring only stable builds progressed.
 
-###Technical Leadership & Team Reference
+
+### Technical Leadership & Team Reference
 Became a key reference point within the team, with peers frequently seeking guidance on testing strategy, defect severity, priorities, and next steps.
+
 Provided practical input on how to proceed with blockers, unclear requirements, and quality risks.
+
 Supported team maturity through daily collaboration and knowledge sharing.
 
-###Business Impact
+
+### Business Impact
 Increased visibility of QA work across squads.
+
 Improved release confidence and decision-making process.
+
 Reduced friction between QA, Development, and Product.
+
 Strengthened testing processes in a fast-paced gaming environment.
