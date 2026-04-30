@@ -3,7 +3,7 @@
 Collection of professional QA cases, quality improvements, testing strategies and real industry experience in gaming products. 
 
 
-# Achievements
+## Achievements while in Pipa Studios
 
 ### Quality Process Improvements
 Led the implementation and adoption of Tuskr as the primary test case management tool, improving organization, traceability, and execution visibility across QA activities.
@@ -21,7 +21,7 @@ Improved Jira board navigation and card organization, increasing visibility of t
 Helped create a more transparent workflow, allowing teams to track quality status more efficiently during sprints.
 
 
-## Build Approval Ownership
+### Build Approval Ownership
 Acted as the final QA decision-maker for build acceptance or rejection before releases.
 
 Evaluated product quality, stability, critical defects, and release readiness to support go/no-go decisions.
